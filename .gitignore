@@ -1,3 +1,7 @@
 /venv/
 /.idea/
+/src/__pycache__/
+
+#For testing
 /src/hi.txt
+/src/tester.py
