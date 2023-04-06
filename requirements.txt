@@ -1,1 +1,1 @@
-git+https://github.com/IvanVZabrodin/QueriPlug@main#QueriPlug~=1.0.5
+git+https://github.com/IvanVZabrodin/QueriPlug@main#egg=QueriPlug
