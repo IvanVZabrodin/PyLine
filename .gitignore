@@ -3,5 +3,6 @@
 /src/__pycache__/*.pyc
 
 #For testing
-/src/hi.txt
+/src/testerdb.db
 /src/tester.py
+
