@@ -1,1 +1,1 @@
--e git+https://github.com/IvanVZabrodin/QueriPlug.git@acba3841575bca57612502d8eb93ef87633fd6bb#egg=QueriPlug
+QueriPlug>=1.0.5
